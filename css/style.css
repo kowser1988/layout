@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+background-color: aqua;
+text-align: center;
+height: 100px;
+}
+
+.banner{
+background-color: rgb(71, 180, 129);
+text-align: center;
+height: 400px;
+}
+
+.content{
+    overflow: hidden;
+}
+.left_content{
+background-color: blueviolet;
+text-align: center;
+height: 250px;
+width: 50%;
+float: left;
+}
+
+.right_content{
+background-color: burlywood;
+text-align: center;
+height: 250px;
+width: 50%;
+float: right;
+}
+
+
+.long_content{
+    background-color: cornflowerblue;
+    height: 200px;
+    text-align: center;
+}
+
+.second_content{
+  overflow: hidden;
+}
+
+.long_content{
+background-color:red ;
+width: 75%;
+height: 150px;
+float: left;
+}
+
+.short_content{
+background-color: royalblue;
+width: 25%;
+height: 150px;
+float: right;
+}
+
+.clint_section{
+overflow: hidden;
+text-align: center;
+}
+
+.clint_one{
+    width: 25%;
+    height: 100px;
+    background-color: royalblue;
+    float: left;
+}
+
+.clint_two{
+    width: 25%;
+    height: 100px;
+    background-color: sandybrown;
+    float: left;
+}
+
+.clint_three{
+    width: 25%;
+    height: 100px;
+    background-color: skyblue;
+    float: left;
+}
+
+.clint_four{
+    width: 25%;
+    height: 100px;
+    background-color: violet;
+    float: left;
+}
+
+.footer{
+    height: 100px;
+    background-color: springgreen;
+    text-align: center;
+}
+
+
+
+
+
+
